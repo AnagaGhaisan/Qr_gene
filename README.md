@@ -72,7 +72,7 @@ Pastikan Anda sudah menginstal Flutter di sistem Anda. Jika belum, ikuti [pandua
 Berikut adalah beberapa mockup aplikasi (tambahkan gambar mockup ke folder `assets/images/`):
 | Tampilan Mockup 1        | 
 |--------------------------|
-| ![Mockup 1](assets/images/Portfolio Section.png) |
+| ![Mockup 1]() |
 
 ## Lisensi
 
